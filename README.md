@@ -1,0 +1,2 @@
+# hammerspoon
+Hammerspoon Configuration
